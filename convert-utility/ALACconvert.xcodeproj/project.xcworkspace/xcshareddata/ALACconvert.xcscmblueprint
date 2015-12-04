@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "92fd1c79-0083-48bf-97f5-1a84ada3fd0a++505",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "92fd1c79-0083-48bf-97f5-1a84ada3fd0a++505" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "92fd1c79-0083-48bf-97f5-1a84ada3fd0a++505" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B99D6C67-D632-49C8-B4F8-51DE38CF46FC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "92fd1c79-0083-48bf-97f5-1a84ada3fd0a++505" : "ALAC\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ALACconvert",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "convert-utility\/ALACconvert.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/svn.macosforge.org\/repository\/alac",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "92fd1c79-0083-48bf-97f5-1a84ada3fd0a++505"
+    }
+  ]
+}
