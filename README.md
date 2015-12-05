@@ -20,7 +20,7 @@ Apple Lossless supports the following features. Not all of these are implemented
 
 This package contains the sources for the Apple Lossless (ALAC) encoder and decoder.
 
-The "codec" directory contains all the sources necessary for a functioning codec. Also includes is a `makefile` that will build `libalac.a` on a UNIX/Linux machine.
+The “codec” directory contains all the sources necessary for a functioning codec. Also includes is a `makefile` that will build `libalac.a` on a UNIX/Linux machine.
 
 ###ALACconvert
 
@@ -32,10 +32,12 @@ alacconvert supports the following formats:
 2. 16- or 24-bit mono or stereo `.caf` (Core Audio Format) files as well as certain multi-channel configurations where the data is big or little endian integer. It does no channel order manipulation.
 3. ALAC `.caf` files.
 
-Three project are provided to build a command line utility called alacconvert that converts cpm data to ALAC or vice versa. A Mac OS X Xcode project, A Windows Visual Studio project, and a generic UNIX/Linux make file.
+Three project are provided to build a command line utility called alacconvert that converts PCM data to ALAC or vice versa. An OS X Xcode project, A Windows Visual Studio project, and a generic UNIX/Linux make file.
 
 Note: When building on Windows, if you are using a version of Visual Studio before Visual Studio 2010, `<stdint.h>` is not installed. You will need to acquire this file on your own. It can be put in the same directory as the project.
 
 The introductions above are originally from Mac OS Forge. You can find the link below.  
   
-A converter of Apple Lossless derived from <a href="http://alac.macosforge.org" target="_blank">http://alac.macosforge.org</a>.
+A converter of Apple Lossless derived from <a href="http://alac.macosforge.org" target="_blank">http://alac.macosforge.org</a>.  
+
+A PDF version Manual is also available in is repository, click <a href="https://raw.githubusercontent.com/starkshaw/AppleLossless/master/Manual.pdf" target="_blank">here</a> to review.
